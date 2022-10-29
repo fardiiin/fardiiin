@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there! 👋
+This is Fardin.
+Learning to code with ambition to excel in Data science.
 
 <!--
 **fardiiin/fardiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
