@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Final year undergrad student of Industrial and Production Engineering<br>📚 I'm currently learning ML<br> 🎲 Fun fact: I know the answer to life, universe, and everything!</p>
+<p align="left">🎓 Final year undergrad student of Industrial and Production Engineering<br>📚 I'm currently learning ML<br> 🎲 Fun fact: I know the answer to life, universe, and everything!</p>
 
 ###
 
