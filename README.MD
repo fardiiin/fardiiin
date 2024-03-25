@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel"  />
   <img width="12" />
   <img src="https://www.minitab.com/content/dam/www/en/uploadedImages/logos/40/MSS_40px.png" height="40" alt="minitab"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgres"  />
@@ -38,11 +38,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="numpy"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="pandas"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="40" alt="sklearn"  />
 </div>
 
