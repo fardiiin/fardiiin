@@ -28,11 +28,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minitab_Logo.svg/135px-Minitab_Logo.svg.png" height="40" alt="minitab"  />
-  <img width="12" /> <br>
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="jupyter"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" height="40" alt="R"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="python"  />
   <img width="12" /> 
   <img src="https://numpy.org/images/logo.svg" height="40" alt="numpy"  />
