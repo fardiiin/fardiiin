@@ -50,10 +50,10 @@
 
 <h2 align="left">Find more about me and connect</h2>
 <a href="https://www.linkedin.com/in/fardin-islam-mahin/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn Badge" style="height: 30px;"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn Badge" style="height: 40px;"/>
 </a>
 
 <a href="https://www.credly.com/users/fardin-islam-mahin/">
-  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="Credly" style="height: 30px;"/>
+  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="Credly" style="height: 40px;"/>
 </a>
 
