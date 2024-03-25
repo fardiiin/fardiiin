@@ -38,7 +38,7 @@
   <img src="https://numpy.org/images/logo.svg" height="40" alt="numpy"  />
   <img width="12" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="pandas"  />
-  <img width="12" /> <br>
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn"  />
