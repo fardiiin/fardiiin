@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Minitab.svg" height="40" alt="minitab"  />
   <img width="12" />
