@@ -50,7 +50,7 @@
 
 <h2 align="left">Find more about me and connect</h2>
 <a href="https://www.linkedin.com/in/fardin-islam-mahin/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 30px;"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn Badge" style="height: 30px;"/>
 </a>
 
 <a href="https://www.credly.com/users/fardin-islam-mahin/">
