@@ -47,3 +47,6 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me</h2>
+<p> <a href="https://www.linkedin.com/in/fardin-islam-mahin/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
