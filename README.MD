@@ -50,8 +50,8 @@
 
 <h2 align="left">Find more about me and connect</h2>
 <a href="https://www.linkedin.com/in/fardin-islam-mahin/" style="margin-right: 10px;">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="40" alt="pandas"  />
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="40" alt="in"  />
   <img width="12" /></a>
 <a href="https://www.credly.com/users/fardin-islam-mahin/">
-  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" height="40" alt="pandas"  />
+  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" height="40" alt="crd"  />
   <img width="12" /></a>
