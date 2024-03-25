@@ -21,9 +21,9 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Power_BI_logo.svg" height="40" alt="PowerBI"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="40" alt="SQL"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL"  />
   <img width="12" />
   <img src="https://en.wikipedia.org/wiki/File:Postgresql_elephant.svg" height="40" alt="postgres"  />
   <img width="12" />
