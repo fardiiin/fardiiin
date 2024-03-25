@@ -25,9 +25,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Postgresql_elephant.svg" height="40" alt="postgres"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgres"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Jupyter_logo.svg" height="40" alt="jupyter"  />
+  <img src="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg" height="40" alt="jupyter"  />
   <img width="12" />
   <img src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg" height="40" alt="python"  />
   <img width="12" />
