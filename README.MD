@@ -49,5 +49,11 @@
 ###
 
 <h2 align="left">Find more about me and connect</h2>
-<a href="https://www.linkedin.com/in/fardin-islam-mahin/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<a href="https://www.credly.com/users/fardin-islam-mahin/"> <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="Credly"/>
+<a href="https://www.linkedin.com/in/fardin-islam-mahin/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 30px;"/>
+</a>
+
+<a href="https://www.credly.com/users/fardin-islam-mahin/">
+  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="Credly" style="height: 30px;"/>
+</a>
+
