@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Minitab.svg" height="40" alt="minitab"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgres"  />
