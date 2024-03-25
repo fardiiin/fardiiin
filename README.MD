@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Connect and find more</h2>
+<h2 align="left">Achievements and more</h2>
 <a href="https://www.linkedin.com/in/fardin-islam-mahin/" style="margin-right: 10px;">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="40" alt="in"  />
   <img width="12" /></a>
