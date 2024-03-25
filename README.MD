@@ -29,17 +29,17 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="jupyter"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg" height="40" alt="python"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="python"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:NumPy_logo_2020.svg" height="40" alt="numpy"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="numpy"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Pandas_logo.svg" height="40" alt="pandas"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="pandas"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Matplotlib_logo.svg" height="40" alt="matplotlib"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Scikit_learn_logo_small.svg" height="40" alt="sklearn"  />
+  <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="40" alt="sklearn"  />
 </div>
 
 ###
