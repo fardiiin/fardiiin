@@ -3,7 +3,8 @@
 ###
 
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
-My Resume: [PDF](link) or [Overleaf](link)
+
+My Resume: [PDF](google.com) or [Overleaf](google.com)
 
 ###
 
