@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
-My Resume: [PDF]() or [Overleaf]()
+My Resume: [PDF](link) or [Overleaf](link)
 
 ###
 
@@ -49,13 +49,12 @@ My Resume: [PDF]() or [Overleaf]()
 
 ###
 <h2 align="left">My Projects</h2>
-###
 
 ### [Project Title](link)
-Description
+Description <br>
 Photo (Fixed Size)
 ### [Project Title](link)
-Description
+Description <br>
 Photo (Fixed Size)
 
 ###
