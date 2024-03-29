@@ -5,10 +5,10 @@
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
 <a href="https://www.credly.com/badges/44e04091-5e87-43d4-b211-81f739883a97/public_url: 120px;">
   <img src="google-data-analytics-professional-certificate.2 (1).png" height="40" alt="in"  />
-  <img width="120" /></a>
+  <img width="12" /></a>
 <a href="https://www.credly.com/badges/72d4d0ea-7f81-4b77-afaf-230e9be0acf6/public_url">
   <img src="ibm-data-analyst-professional-certificate (1).png" height="40" alt="crd"  />
-  <img width="120" /></a>
+  <img width="12" /></a>
 
 <h2 align="left">About me</h2>
 
