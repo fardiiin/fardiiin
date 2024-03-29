@@ -3,7 +3,8 @@
 ###
 
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72d4d0ea-7f81-4b77-afaf-230e9be0acf6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44e04091-5e87-43d4-b211-81f739883a97" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ###
 
 <h2 align="left">About me</h2>
