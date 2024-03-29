@@ -4,8 +4,6 @@
 
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
 
-My Resume: [PDF](google.com) or [Overleaf](google.com)
-
 ###
 
 <h2 align="left">About me</h2>
@@ -47,16 +45,6 @@ My Resume: [PDF](google.com) or [Overleaf](google.com)
   <img width="12" />
   <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="40" alt="sklearn"  />
 </div>
-
-###
-<h2 align="left">My Projects</h2>
-
-### [Project Title](link)
-Description <br>
-Photo (Fixed Size)
-### [Project Title](link)
-Description <br>
-Photo (Fixed Size)
 
 ###
 
