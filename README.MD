@@ -3,9 +3,23 @@
 ###
 
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72d4d0ea-7f81-4b77-afaf-230e9be0acf6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44e04091-5e87-43d4-b211-81f739883a97" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-###
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72d4d0ea-7f81-4b77-afaf-230e9be0acf6" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44e04091-5e87-43d4-b211-81f739883a97" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript">
+  // Place this script at the end of your HTML or after the badge divs
+  // This ensures the DOM has loaded before executing the JavaScript
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//cdn.credly.com/assets/utilities/embed.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+</script>
+
 
 <h2 align="left">About me</h2>
 
