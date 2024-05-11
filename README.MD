@@ -6,6 +6,9 @@
 <a href="https://www.credly.com/badges/72d4d0ea-7f81-4b77-afaf-230e9be0acf6/public_url">
   <img src="ibm-data-analyst-professional-certificate (1).png" alt="crd" style="height: 60px;" />
 </a>
+<a href="https://www.datacamp.com/certificate/DAA0013326104051">
+  <img src="https://github.com/fardiiin/fardiiin.github.io/tree/main/images/badges/data-analyst-associate-badge.svg" alt="datacamp" style="height: 65px;" />
+</a>
 <a href="https://www.credly.com/badges/44e04091-5e87-43d4-b211-81f739883a97/public_url">
   <img src="google-data-analytics-professional-certificate.2.png" alt="in" style="height: 65px;" />
 </a>
