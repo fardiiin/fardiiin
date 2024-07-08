@@ -1,6 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<h2 align="left">I am </h2>
+<h2 align="left">
+<p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
+</h2>
 
 ###
 
