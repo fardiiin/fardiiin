@@ -1,11 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h2 align="left">
-<p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
+About me
 </h2>
 
 ###
-
+<p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
 <p align="left">🎓 Final year undergrad student of Industrial and Production Engineering<br>📚 I'm currently exploring Machine Learning<br> 🎲 Fun fact: I know the answer to life, universe, and everything!</p>
 
 ###
