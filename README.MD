@@ -6,7 +6,7 @@ About me
 
 ###
 <p align="left">I am Fardin, and I'm a Data Analyst, from Dhaka! 🇧🇩 </p>
-<p align="left">🎓 Final year undergrad student of Industrial and Production Engineering<br>📚 I'm currently exploring Machine Learning<br> 🎲 Fun fact: I know the answer to life, universe, and everything!</p>
+<p align="left">🎓 A graduate of Industrial and Production Engineering<br>📚 I'm currently exploring Machine Learning<br> 🎲 Fun fact: I know the answer to life, universe, and everything!</p>
 
 ###
 
